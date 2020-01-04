@@ -1,8 +1,8 @@
 # simple-address-checker
 Getting suggestion when you type typo address using Levenshtein Algorithm
 
-[![Coverage Status](https://coveralls.io/repos/github/xhijack/simple-address-checker/badge.svg)](https://coveralls.io/github/xhijack/simple-address-checker)
-
+[![Coverage Status](https://coveralls.io/repos/github/xhijack/simple-address-checker/badge.svg)](https://coveralls.io/github/xhijack/simple-address-checker) 
+[![PyPI version](https://badge.fury.io/py/simple-address-checker.svg)](https://badge.fury.io/py/simple-address-checker)
 #how to use
 
 ```
