@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="simple-address-checker",
-    version="0.1.1",
+    version="0.1.2",
     author="ramdani muksin",
     author_email="ramd4ni@gmail.com",
     description="A Simple Address checker",
