@@ -5,9 +5,6 @@ import Levenshtein
 
 class SubdistrictPayload:
 
-    def __init__(self, lang):
-        pass
-
     @classmethod
     def load_subdistricts(cls, lang='id', filename=None):
         if filename is None:
