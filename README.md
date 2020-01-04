@@ -1,6 +1,7 @@
 # simple-address-checker
 Getting suggestion when you type typo address using Levenshtein Algorithm
 
+[![Coverage Status](https://coveralls.io/repos/github/xhijack/simple-address-checker/badge.svg)](https://coveralls.io/github/xhijack/simple-address-checker)
 #how to use
 
 ```
